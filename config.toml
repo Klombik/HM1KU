@@ -1,0 +1,5 @@
+username = "user"
+hostname = "mycomputer"
+vfs_path = "vfs.zip"
+log_path = "log.json"
+startup_script = "startup.sh"
