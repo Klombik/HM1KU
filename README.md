@@ -56,7 +56,7 @@ python tests.py
 Первоначально создана эмуляция образа Linux в vfs.zip архиве. Программа работает только с командами, указанными в условии задачи и разделе **``Описание всех функций и настроек``**. Результат работы команд выводится в консоль образа Linux. 
 
 # Результат работы юнит-тестов
-![art](https://github.com/Klombik/HM1KU/blob/81b898b9246e20aaf3def3f4e6c0a02b5a37b941/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-11-26_172302329.png)
+![art](https://github.com/Klombik/HM1KU/blob/6821ac5bf3ac2e59d480e0389ae09ef53c7ef941/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-11-26_173452136.png)
 
 # Результат работы программы
 ![art](https://github.com/Klombik/HM1KU/blob/911dbdafcbd7e5afdfecb12917677fb56273a704/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-11-26_172822655.png)
