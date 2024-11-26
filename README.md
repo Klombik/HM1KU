@@ -59,6 +59,10 @@ python tests.py
 ![art](https://github.com/Klombik/HM1KU/blob/81b898b9246e20aaf3def3f4e6c0a02b5a37b941/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-11-26_172302329.png)
 
 # Результат работы программы
+![art](https://github.com/Klombik/HM1KU/blob/911dbdafcbd7e5afdfecb12917677fb56273a704/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-11-26_172822655.png)
+
+![art]()
+
 ![art]()
 
 
