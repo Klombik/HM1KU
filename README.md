@@ -63,7 +63,7 @@ python tests.py
 
 ![art](https://github.com/Klombik/HM1KU/blob/be1e059643336575f3e0bd8674c18a0d24ca1094/cl.png)
 
-![art]()
+![art](https://github.com/Klombik/HM1KU/blob/4d3a532058c0252f20f16ce7ea3bf91d3d2f2f2d/cl2.png)
 
 
 
